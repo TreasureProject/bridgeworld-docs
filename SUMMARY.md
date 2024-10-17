@@ -26,6 +26,8 @@
 
 ## Lore
 
+* [The New Age](lore/the-new-age/README.md)
+  * [A New Adventure](lore/the-new-age/a-new-adventure.md)
 * [The End of the Beginning](lore/the-end-of-the-beginning/README.md)
   * [The Cracking of the Crystal](lore/the-end-of-the-beginning/the-cracking-of-the-crystal.md)
   * [The Beginning of Destiny](lore/the-end-of-the-beginning/the-beginning-of-destiny.md)
