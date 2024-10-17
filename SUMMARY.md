@@ -1,9 +1,9 @@
 # Table of contents
 
-## Bridgeworld
+## Bridgeworld (Genesis)
 
 * [Introduction](README.md)
-* [Getting Started](bridgeworld/getting-started.md)
+* [Getting Started](bridgeworld-genesis/getting-started.md)
 
 ## Gameplay
 
