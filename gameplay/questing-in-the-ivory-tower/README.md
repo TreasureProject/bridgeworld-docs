@@ -10,7 +10,7 @@ description: >-
 
 The Ivory Tower is where Legions can set out on quests in search of valuable resources such as Essence of Starlight, Treasure Fragments, and Prism Shards.&#x20;
 
-_Note**:** Genesis Legions have the added advantage of finding full Treasures (in addition to the above)._&#x20;
+_Not&#x65;**:** Genesis Legions have the added advantage of finding full Treasures (in addition to the above)._&#x20;
 
 Items found from questing are used in a variety of ways across Bridgeworld. Treasure Fragments can be used to craft full Treasures in [<mark style="color:blue;">The Forge</mark>](broken-reference). Essence of Starlight, a liquid form of MAGIC, is used to tattoo Legions with one of Bridgeworld's constellations onto their skin so they can equip more Treasures while on quests to earn higher tiered Treasure Fragments.
 

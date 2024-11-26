@@ -10,7 +10,7 @@ The lady who'd sat beside her on the boat was already in talks with one of the f
 
 Everyone seemed to know where they were supposed to go. But as Aliya looked around the village she felt no such inkling. What about family? She knew she had a grandmother from the embroidered pouch and gifts. But that told her nothing as to where she'd really come from or where she's going.&#x20;
 
-_"Why am I even here?" "What even is this place?!"_ She could feel another panic attack coming. _"What is Bridgeworld supposed to be?! What's bridging anyway?" Desperately s_he began focusing on her breathing and soon calmed down. As she stood there in center of the village, out of breath and confused she caught sight of something out of the corner of her eye.
+_"Why am I even here?" "What even is this place?!"_ She could feel another panic attack coming. _"What is Bridgeworld supposed to be?! What's bridging anyway?" Desperately &#x73;_&#x68;e began focusing on her breathing and soon calmed down. As she stood there in center of the village, out of breath and confused she caught sight of something out of the corner of her eye.
 
 It was a strangely innocuous cottage hidden behind some well-trimmed hedges and immediately she felt drawn to it. She remembered Nat's suggestion to look for Anton but she didn't know where he could be so why not check out the Cottage she thought to herself.&#x20;
 

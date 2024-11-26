@@ -22,15 +22,10 @@
   * [Crafting Corruption](gameplay/corruption/crafting-corruption.md)
   * [Doomsday](gameplay/corruption/doomsday.md)
 * [Meem, The Wandering Merchant](gameplay/meem-the-wandering-merchant.md)
-* [Game Video Tutorials](https://www.youtube.com/channel/UCw3mq\_ycQog6byQUspG-Pag)
+* [Game Video Tutorials](https://www.youtube.com/channel/UCw3mq_ycQog6byQUspG-Pag)
 
 ## Lore
 
-* [The New Age](lore/the-new-age/README.md)
-  * [A New Adventure](lore/the-new-age/a-new-adventure.md)
-* [The End of the Beginning](lore/the-end-of-the-beginning/README.md)
-  * [The Cracking of the Crystal](lore/the-end-of-the-beginning/the-cracking-of-the-crystal.md)
-  * [The Beginning of Destiny](lore/the-end-of-the-beginning/the-beginning-of-destiny.md)
 * [The Old Tomes](lore/the-old-tomes/README.md)
   * [The Tomes of Lore](lore/the-old-tomes/the-tomes-of-lore.md)
   * [Foundations](lore/the-old-tomes/foundations.md)
